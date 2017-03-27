@@ -1,0 +1,146 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\New folder\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\Compressed\[TEMPLATE] ImageQuantization 1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\Compressed\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\Compressed\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\ALGO PROJECT\[Task1] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_MST\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization_MST 2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization 2\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\[Task1] ImageQuantization_Milestone1.1\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\acm contest\[Task1] ImageQuantization_Milestone1.4\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.5\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Raba7\Documents\Visual Studio 2012\Projects\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
