@@ -144,3 +144,5 @@ E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Deb
 E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
 E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
 E:\Algo project\[Task1] ImageQuantization_Milestone1.7\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+F:\GitHub - Projects\Image-Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+F:\GitHub - Projects\Image-Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
